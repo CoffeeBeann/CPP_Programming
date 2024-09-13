@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/vm/ic210/Projects/Project03/p3files'
+g++ part1.cpp mylib.cpp Pos.cpp easycurses.cpp -l ncurses -o part1
+make: Leaving directory '/home/vm/ic210/Projects/Project03/p3files'
+ 
